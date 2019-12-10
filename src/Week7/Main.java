@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 // add note
+    // additional notes from desktop
     public static double average (double[] value){
         double total=0;
         for( int j = 0; j < value.length; j++ ) {
