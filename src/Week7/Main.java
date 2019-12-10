@@ -3,7 +3,7 @@ package Week7;
 import java.util.Scanner;
 
 public class Main {
-
+// add note
     public static double average (double[] value){
         double total=0;
         for( int j = 0; j < value.length; j++ ) {
